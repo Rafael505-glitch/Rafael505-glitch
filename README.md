@@ -2,7 +2,8 @@
  <h1> Sou um amante de tecnologia com experiencia em algumas areas distintas como: </h1>
 <p>Ilustração <img width="5%" height="5%" alt="image" src="https://github.com/user-attachments/assets/8f7ff958-1833-46c7-a251-e8d43cd0c16e" />
 </p> 
-<p>Adobe illustrator <img scr=""/></p>
+<p>Adobe illustrator <img width="5%" height="5%" alt="image" src="https://github.com/user-attachments/assets/ecd1041b-43b8-44c7-ad91-9ecd7023ac0b" />
+</p>
 <p>Front End <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </p> 
 
 <!--
