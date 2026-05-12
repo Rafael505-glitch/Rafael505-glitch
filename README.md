@@ -1,11 +1,14 @@
 ## Olá!👋
  <h1> Sou um amante de tecnologia com experiencia em algumas areas distintas como: </h1>
-<p><img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/8f7ff958-1833-46c7-a251-e8d43cd0c16e" /> Ilustração 
-</p> 
-<p> <img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/ecd1041b-43b8-44c7-ad91-9ecd7023ac0b" /> Adobe Illustrador
-</p>
-<p><img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/34935a5a-b19e-4bdd-a2ae-a91d21f0c994" />
- Front End  </p> 
+ <ul>
+  <li><img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/8f7ff958-1833-46c7-a251-e8d43cd0c16e" /> Ilustração 
+</li> 
+<li> <img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/ecd1041b-43b8-44c7-ad91-9ecd7023ac0b" /> Adobe Illustrador
+</li>
+<li><img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/34935a5a-b19e-4bdd-a2ae-a91d21f0c994" />
+ Front End  </li> 
+
+ </ul>
 
 <!--
 **Rafael505-glitch/Rafael505-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
