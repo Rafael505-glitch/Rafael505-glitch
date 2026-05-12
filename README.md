@@ -1,8 +1,8 @@
 ## Olá!👋
- Sou um amante de tecnologia com experiencia em algumas areas distintas como:
- Ilustração
- Desing Gráfico
- Front End https://camo.githubusercontent.com/b108dc2388739d4cea2bef5cf6909c24a38398e393601fe6be0d7f63327431ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+ <h1> Sou um amante de tecnologia com experiencia em algumas areas distintas como: </h1>
+<p>Ilustração</p> 
+<p> Desing Gráfico</p>
+<p>Front End </p> 
 
 <!--
 **Rafael505-glitch/Rafael505-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
