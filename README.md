@@ -1,8 +1,8 @@
 ## Olá!👋
  <h1> Sou um amante de tecnologia com experiencia em algumas areas distintas como: </h1>
-<p>Ilustração</p> 
-<p> Desing Gráfico</p>
-<p>Front End </p> 
+<p>Ilustração <img src="https://cdn-icons-png.flaticon.com/512/1454/1454971.png"/></p> 
+<p>Adobe illustrator <img scr="[https://webcatalog.io/pt/apps/adobe-illustrator](https://static.vecteezy.com/system/resources/thumbnails/056/850/858/small/adobe-illustrator-logo-on-a-transparent-background-free-png.png)"/</p>
+<p>Front End <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </p> 
 
 <!--
 **Rafael505-glitch/Rafael505-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
